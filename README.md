@@ -1,0 +1,1 @@
+A practice project built to learn Tailwind CSS and JavaScript, deployed on Vercel at tailwind-skills.vercel.app. To run it locally, clone the repo, run npm install, then build the styles with the Tailwind CLI (output goes to dist/).
